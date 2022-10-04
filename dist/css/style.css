@@ -97,7 +97,7 @@ body._lock {
 }
 
 .header__menu .menu__body .menu__list .menu__link--active {
-  color: #57A4A4;
+  color: #57a4a4;
 }
 
 .main__intro--background {
@@ -126,13 +126,13 @@ body._lock {
 
 .news__highlights .news__post span {
   font-size: 12px;
-  color: #7C7C7C;
+  color: #7c7c7c;
 }
 
 .news__highlights .news__post p {
   font-size: 13px;
   line-height: 26px;
-  color: #5C5C5C;
+  color: #5c5c5c;
 }
 
 .main__instagram {
@@ -179,7 +179,7 @@ body._lock {
 }
 
 .footer__content p {
-  color: #B9B9B9;
+  color: #b9b9b9;
   line-height: 28px;
 }
 
@@ -271,7 +271,8 @@ body._lock {
     background: #f5f5f5;
     width: 182px;
     position: absolute;
-    top: 60px;
+    top: 61px;
+    right: 14.5px;
   }
 
   .header__menu .menu__body .menu__list {
@@ -345,7 +346,7 @@ body._lock {
     justify-content: center;
     gap: 32px;
     font-size: 12px;
-    color: #B9B9B9;
+    color: #b9b9b9;
   }
 
   .footer__content .footer__title--mobile {
